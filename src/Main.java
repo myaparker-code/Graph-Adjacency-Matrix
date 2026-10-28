@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Repository link: https://github.com/myaparker-code/Graph-Adjacency-Matrix.git
+        // Repository link: https://github.com/myap1818/Graph.git
 
         Graph g = new Graph(5);
         g.add_edges(0, 1);

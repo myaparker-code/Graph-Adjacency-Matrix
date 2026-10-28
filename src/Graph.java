@@ -30,7 +30,7 @@ public class Graph {
         }
     }
 
-    // Print every vertex that shares an edge with n.
+
     public void adjacent_nodes(int n) {
         System.out.print("Adjacent nodes of " + n + ": ");
         boolean found = false;
